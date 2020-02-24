@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "logistics-car",
+  "private_key_id": "94e09b12656235f47c3cdfd7755db89273128beb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCgtJuO3S8FGCs5\nWdis3Yte9Auc2xTchttF/ps1s04sto6L6KTS18YDvddG/q6JEOBU01BFhNpoEmk5\nUs7pL6wJSTjFSLUXFPrpLE5N63m08nXzUVGT3Ta927dQtka2mdPjqIp2ohvyVdE7\nDDn1gHh8wBoGk6QPQ5v6dOVNKOBJX5+D4/iLeV3tFGNZ9/JJRuv50t85zkHmEtKa\nCL/ofVYhAePwJhSJA2qa2/h8OpC/1JPUAuUfNSCFwYWmaMw/1iPhhwtzZ6J3yOwG\nVd/etUlCDaRO4cEPEnKt+QKHoFwhOzJf+65Zrv3E8N/emMVeL234Jnp9PZEVZKPk\nDQ291ksdAgMBAAECggEACqwb1Ye+TuQNQMyE7Wv0DLz/xW2uK7v/9VzEcXNEKoeA\nHW34fjEKqyZxFLummx8mCrQS1V8OgxFP8Bjd+VHrZp14ee+LaSpBRHlnBNkxtrDQ\nYPWCSaPL9h1Qhflo5kj+b5S6h0jaOsR0tetosPNUbRJz2AJ3h3T5t48KSE7B4FVw\nfbsiJbqbYibtuoATzAK9eGbNmMSaCyDqShwNEqcKB/hWBuwoJRZw4pvm4J/p+Ht0\nlSB/7W6I+5tnhU7VT7YHNJs0yyGnIyHRBNkZ6H3ebgvO1pgFslwcbaP1s/odB577\n/dwx+zySglkFnUFkZWB4RohgXeSCbHz0UdOTDuNQSQKBgQDjBgBnJMovpJ7TOhNt\nehHiKnHStf3E9kMXkMG9zDg5NhxPnvRdJCT7+dGK3nq8qHCmtbx3jKNEqnpGEE7g\nLL6J5zaWLFqqR1BaoMscuLRzuFN5cyb4ZdSXyOelBhc1srmu7C68L0kam0AgcS30\nLsWxGs1wVyZczIzfeou8Demf1QKBgQC1N6pBQIZDyAHP3ELKPc01CNhSUMa4Y/CH\nFPZp9cuFWim1PcIOnCPbMYP7F4Et7jh4E3ZKKrXVFXkIOV18G5nknNbtR7rxlbA/\nPqAdF/zeTqShnzoCaisW1RrQqjS6ZQj4O/RdYlFu0kCfxA8XyHEJhZgKvGIm423q\nvxC29ofqKQKBgGLAzZQQcNLgrSX88U6B9x2GkRSzjbwL04uAsIY7O4nHe/E2l92c\nR2pEdV4PARznuHkMPPtT9gF8lsu7dFQXopqiNSCGErpXYyDJKRFJV1WvLMB70svi\nn+OWxQ0H5Ti6kgMBQiMh/o7QUcjK8s5xOhWcLxlbD5j2caEU0YvwEVwxAoGBAIl7\n/u5cfsDD6CQEDqQTOTGoUT46TFmucNh7HewL7+lvGz+G6EhfS5DLwz7neTkYh70J\nvu/L8YIFNXr40qUK57mbCDCjAACzOTDyWVVZUp5yedKo08DrPV+oNBzlVPWpG6IB\nEocaxX9XgnHztCOuDZxUv6I9hBXO7CBx7sNwzHLpAoGAI0XmW4XSAs1tJfwV3Iti\ndH/xkw1irbyN3oNaz01wPgS7VNYkK1+fvzNcyTcl6O4Cw/6LOPCuK2C5AUdUDblC\nKN/hTzgf51L6LqNWbsNZlf7AHjSdOhLCBhH5irpNIlbrWny7KZk2voPmcSe8ZdT2\nmsCXq05Ybdooa69mvb6Oa5o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "logistics-car@appspot.gserviceaccount.com",
+  "client_id": "109015247436082352052",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/logistics-car%40appspot.gserviceaccount.com"
+}
